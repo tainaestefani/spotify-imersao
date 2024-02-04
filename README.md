@@ -16,4 +16,4 @@ O objetivo proposto era recriar a landing page (interface) da plataforma de stre
 2. Baixe o Node.js;
 3. Faça a implementação do API JSON-Server com uma porta 3000;
 4. Baixe o Live Server;
-5. E por fim, clique em "Go Live" para executar;
+5. E por fim, clique em "Go Live" para executar.
