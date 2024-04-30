@@ -1,9 +1,10 @@
 <div id="user-content-toc">
+  <i class="fa-brands fa-spotify"></i>
   <ul align="left">
-    <summary><h2 style="display: inline-block">Spotify Landing Page</h2>
-    <img align="right" alt="" height="300px" src=""></summary>
+    <summary><h1 style="display: inline-block" color= >Spotify Landing Page</h1></summary>
 </div>
 
+<img align="right" alt="" height="300px" src="landing-page.png">
 <p align="left">Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura. O objetivo proposto era recriar a landing page (interface) da plataforma de streaming de música Spotify.</p>
 
 <h3 align="left">Linguagens Utilizadas:</h3>
