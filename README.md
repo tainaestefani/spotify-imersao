@@ -1,16 +1,18 @@
-# Spotify Landing Page
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">Spotify Landing Page</h2>
+    <img align="right" alt="" height="300px" src=""></summary>
+</div>
 
-Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura.
+<p align="left">Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura. O objetivo proposto era recriar a landing page (interface) da plataforma de streaming de música Spotify.</p>
 
-O objetivo proposto era recriar a landing page (interface) da plataforma de streaming de música Spotify.
-
-# Linguagens Utilizadas
+<h3 align="left">Linguagens Utilizadas:</h3>
 
 * HTML;
 * CSS;
 * JavaScript.
 
-# Como Executar o Projeto
+<h3 align="left">Como Executar o Projeto?</h3>
 
 1. Faça um clone deste repositório;
 2. Baixe o Node.js;
