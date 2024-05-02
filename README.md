@@ -1,22 +1,25 @@
 <div id="user-content-toc">
   <ul align="left">
-    <h1 style="display: inline-block">Spotify Landing Page</h1>
+    <h2 style="display: inline-block">Spotify Landing Page</h2>
 </div>
 
-<p align="left">Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura. <br>O objetivo proposto era recriar a landing page (interface) da plataforma de streaming de música Spotify.</p>
+<p align="left">Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura. O objetivo proposto era recriar a landing page da plataforma de streaming de música Spotify.</p>
 
-<h3 align="left">Linguagens Utilizadas:</h3>
+<h3 align="left">Demonstração</h3>
+<img align="center" alt="" height="350px" src="landing-page.png">
 
-* HTML;
-* CSS;
-* JavaScript.
+<h3 align="left">Linguagens Utilizadas</h3>
 
-<details align="left">
-  <summary></summary>
-  <h3 align="left">Como Executar o Projeto?</h3>
-1. Faça um clone deste repositório;<br>
-2. Baixe o Node.js;<br>
-3. Faça a implementação do API JSON-Server com uma porta 3000;<br>
-4. Baixe o Live Server;<br>
-5. E por fim, clique em "Go Live" para executar.
-</details>
+* HTML5
+* CSS3
+* JavaScript
+
+<h3 align="left">🔧 Como Executar o Projeto?</h3>
+
+````
+Faça um clone deste repositório.
+Baixe o Node.js.
+Faça a implementação do API JSON-Server com uma porta 3000.
+Baixe o Live Server.
+E por fim, clique em "Go Live" para executar.
+````
