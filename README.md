@@ -20,6 +20,5 @@
 Faça um clone deste repositório.
 Baixe o Node.js.
 Faça a implementação do API JSON-Server com uma porta 3000.
-Baixe o Live Server.
-E por fim, clique em "Go Live" para executar.
+Baixe o Live Server e clique em "Go Live" para executar.
 ````
