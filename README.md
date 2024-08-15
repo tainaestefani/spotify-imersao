@@ -1,15 +1,17 @@
 <h2 align="left">Spotify Landing Page</h2>
 
-<p align="left">Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura. 
-<br>O objetivo proposto era recriar a landing page da plataforma de streaming de música Spotify.</p>
+<p align="left">Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura. O objetivo proposto era recriar a landing page da plataforma de streaming de música Spotify.</p>
 
-<img align="right" alt="Spotify Landing Page" height="230px" src="landing-page.png">
+<img align="right" alt="Spotify Landing Page" height="200px" src="landing-page.png">
 
 <h3 align="left">Linguagens Utilizadas</h3>
 
 * HTML5
 * CSS3
 * JavaScript
+
+<br>
+<br>
 
 #
 
