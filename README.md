@@ -23,3 +23,10 @@ Baixe o Node.js.
 Faça a implementação do API JSON-Server com uma porta 3000.
 Baixe o Live Server e clique em "Go Live" para executar.
 ````
+
+<div>
+  <details>
+    <summary></summary>
+    <p align="left">› Por <a href="https://github.com/alura-cursos">Alura</a></p>
+  </details>
+</div>
