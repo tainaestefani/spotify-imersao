@@ -1,32 +1,20 @@
-<h2 align="left">Spotify Landing Page</h2>
+# Spotify Landing Page
+<p>Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura. O objetivo proposto era recriar a landing page da plataforma de streaming de música Spotify.</p>
 
-<p align="left">Esse projeto foi desenvolvido durante a Imersão Front-end oferecida pela Alura. O objetivo proposto era recriar a landing page da plataforma de streaming de música Spotify.</p>
+## 🛠️ Linguagens Utilizadas
+* HTML5.
+* CSS3.
+* JavaScript.
 
-<img align="right" alt="Spotify Landing Page" height="200px" src="landing-page.png">
-
-<h3 align="left">Linguagens Utilizadas</h3>
-
-* HTML5
-* CSS3
-* JavaScript
+## 🔧 Como Executar o Projeto
+* Clone este repositório com o comando:
+```
+git clone <https://github.com/tainaestefani/7-days-of-code.git>
+```
+* Abra em uma IDE de sua escolha e clique em "Run" / "Execute" / "Go Live" para executar.
 
 <br>
-<br>
+<p>✨ Desenvolvido por: <a href="https://github.com/alura-cursos"> Alura</a>. ✨</p>
 
-#
-
-<h3 align="left">🔧 Como Executar o Projeto?</h3>
-
-````
-Faça um clone deste repositório.
-Baixe o Node.js.
-Faça a implementação do API JSON-Server com uma porta 3000.
-Baixe o Live Server e clique em "Go Live" para executar.
-````
-
-<div>
-  <details>
-    <summary></summary>
-    <p align="left">› Por <a href="https://github.com/alura-cursos">Alura</a></p>
-  </details>
-</div>
+## 🧑‍💻 Autor
+[<img alt="Profile Pic" src="https://avatars.githubusercontent.com/u/154456749?v=4" width="115" style="border-radius:50%"><br><sub>Tainá Estefani Martins</sub>](https://github.com/tainaestefani)
